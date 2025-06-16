@@ -118,7 +118,7 @@ Este proyecto fue desarrollado por:
 * **Bonetti Kunt Daniela Sofia** - danielabonetti51@gmail.com
 
 **Materia:** Programación I
-**Profesor/a:** Prof. Cinthia Rigoni
+**Profesora:** Prof. Cinthia Rigoni
 **Fecha de Entrega:** 09/06/2025
 
 ## 📚 Bibliografía
@@ -131,6 +131,7 @@ Para la elaboración de este trabajo, se consultó la siguiente información:
 ## 🔗 Anexos
 
 * **Video Explicativo del Proyecto:**
-    [https://youtu.be/LmWDORWYyJE](https://youtu.be/LmWDORWYyJE) (Enlace de ejemplo, por favor, reemplaza con el enlace real de YouTube si es diferente)
-* **Código Fuente Completo del Proyecto:**
-    [https://github.com/Danielabonetti/trabajo-integrador-...](https://github.com/Danielabonetti/trabajo-integrador-...) (Enlace del repositorio de GitHub, por favor, reemplaza con el enlace real si es diferente)
+  [  (https://youtu.be/OD9xuoB0o44?si=wSwLcfoJFTfExqR0)](https://youtu.be/OD9xuoB0o44?si=wSwLcfoJFTfExqR0)
+
+  
+
